@@ -57,6 +57,9 @@
     "@deepseek-ai/dsh-user-approval": "*"
   },
   "devDependencies": {
+    "@deepseek-ai/cordis": "~4.0.4",
+    "@deepseek-ai/dsh-llm": "0.2.0-rc.2",
+    "@deepseek-ai/dsh-user-approval": "0.2.0-rc.2",
     "@types/node": "^22.20.1",
     "typescript": "^5.9.3"
   }
