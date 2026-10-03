@@ -1,6 +1,6 @@
 {
   "name": "@jiesou/dsh-timeout-auto-reject",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Auto-reject unanswered permission requests with a model-visible timeout notice",
   "type": "module",
   "main": "lib/index.js",
